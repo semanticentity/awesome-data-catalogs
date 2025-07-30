@@ -19,7 +19,7 @@ This repository contains a curated list of awesome data catalogs and observabili
 | [📙 Magda](#magda)                           |                                            |                                | [📕 Stemma](#stemma)          |
 | [📙 Open Data Discovery](#opendatadiscovery) |                                            |                                | [📕 Talend](#talend) |
 | [📙 OpenMetadata](#openmetadata)             |                                            |                                | [📕 Select Star](#selectstar) |
-| [📙 Elementary](#elementary)                 |                                            |                                | |
+| [📙 Elementary](#elementary)                 |                                            |                                | [📕 Secoda](#secoda) |
 | [📙 Gravitino](#gravitino)                   |                                            |                                | |
 | [📙 Soda Core](#soda)                        |                                            |                                | |
 | [📙 Meta\#Grid](#metagrid)                   |                                            |                                | |
@@ -52,6 +52,7 @@ This repository contains a curated list of awesome data catalogs and observabili
 |            [Marquez](#marquez)            | [OpenLineage](https://github.com/OpenLineage/OpenLineage) | ✔️ | ❌| ✔️ | ? | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ |
 |        [Monte Carlo](#montecarlo)         | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ | ❌ |
 |        [Select Star](#selectstar)         | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ✔️ |
+|             [Secoda](#secoda)             | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | [Open Data Discovery](#opendatadiscovery) | [ODD Specification](https://github.com/opendatadiscovery/opendatadiscovery-specification) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ✔️ |
 |       [OpenMetadata](#openmetadata)       | [JSON Schema](https://github.com/json-schema-org/json-schema-spec) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 |             [Stemma](#stemma)             | ❌ | ✔️ | ✔️  | ✔️ | ❌ | ❌ | ? | ✔️ | ❌ | ❌ | ❌ |
@@ -814,6 +815,46 @@ Select Star is an intelligent data discovery platform that automatically analyze
     <li>Slack</li>
   </ul>
 </li>
+</ul>
+</details>
+
+<br>
+
+<a name="secoda"></a>
+### Secoda
+
+[Website](https://www.secoda.co/)
+
+Secoda is a comprehensive data discovery and cataloging platform that helps organizations find, understand, and trust their data. It provides automated data discovery, lineage tracking, and collaboration features to make data more accessible across teams.
+
+|Based on Open Standard | Search-based | Network-based | Lineage-based | Federation | ML 1st Citizen | Data Quality | End-to-end Lineage | Observability | Column-level lineage | Data collaboration |
+|:--:|:---:|:---:|:---:|:--:|:---:|:--:|:--:|:--:|:--:|:--:| 
+| ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
+
+<details>
+<summary>More features</summary>
+<br>
+<ul>
+<li><b>Strategy:</b> Push / Pull</li>
+<li><b>Automations:</b> Yes</li>
+<li><b>AI autowiring:</b> Yes</li>
+<li><b>AI agents:</b> Yes</li>
+<li><b>Recommendations:</b> Yes</li>
+<li><b>Rich data profiling:</b> Yes</li>
+<li><b>Monitoring and observability:</b> Yes</li>
+<li><b>Change notifications:</b> Yes</li>
+<li><b>Entity Relationship Diagram generation:</b> Yes</li>
+<li><b>Table and column level lineage:</b> Yes</li>
+<li><b>Lineage impact analysis:</b> Yes</li>
+<li><b>Role Based Access Controls:</b> Yes</li>
+<li><b>Policy Based Access Controls:</b> Yes</li>
+<li><b>Popularity and Usage:</b> Yes</li>
+<li><b>Description and Tag propagation:</b> Yes</li>
+<li><b>Data preview:</b> Yes</li>
+<li><b>Data owners:</b> Yes</li>
+<li><b>Top data users:</b> Yes</li>
+<li><b>UX personalization:</b> Yes</li>
+<li><b>Supported data sources:</b> Airbyte, Airflow (Apache), Amplitude, Apache Hive, Apache Kafka, Astronomer, AWS Athena, AWS Cross Account Role, AWS Glue, AWS S3, Azure Cosmos DB (Both NoSQL and Tables), Azure Synapse, BigQuery (Google Cloud), Census, Cluvio, Coalesce, Confluent Cloud, Confluence, Cyera, Dagster, Databricks, Dataplex (Google Cloud), dbt (Both Cloud and Core), File Upload (CSV, JSONL), Fivetran, Git, GitHub, Google Cloud Storage, Google Data Studio, Great Expectations, Hashboard, Hex, Hightouch, Jira, Lightdash, Linear, Looker (Google), Marketplace Integrations, Matillion, Metabase, Microsoft SQL Server, Microsoft Teams, Mixpanel, Mode, MongoDB, Monte Carlo, MotherDuck, MySQL, Oracle, PagerDuty, Polytomic, PostgreSQL, Power BI (Microsoft), Preset, QuickSight (AWS), Redash, Redshift (AWS), Retool, Reverse SSH Tunnel, Salesforce, Sigma Computing, SingleStore, Slack, Snowflake (Primary warehouse), SQL Server Reporting Services (SSRS), SSH Tunnel, Stitch, Superset, Tableau, ThoughtSpot, Trino, VPC Peering</li>
 </ul>
 </details>
 
